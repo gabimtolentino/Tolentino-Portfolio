@@ -17,6 +17,7 @@ header h1 {
 
 header nav {
     font-size: 20px;
+    justify-content: center;
 }
 
 a {
@@ -24,8 +25,23 @@ a {
 }
 
 .pp {
-    width: 40%;
-    height: 70;
+    width: 15%;
+    height: 10;
     justify-content: center;
     align-items: center;
+    padding: 10px;
+    background-color:darkolivegreen;
+    border-radius: 20px;
+}
+
+.about-me {
+    color:darkgoldenrod
+}
+
+.my-work {
+    color:darkgoldenrod
+}
+
+.contact-me {
+    color:darkgoldenrod
 }
