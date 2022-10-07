@@ -49,6 +49,8 @@ a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     text-align: center;
+    border-style: solid;
+    border-width: 6px;
     color:darkgoldenrod
 }
 
@@ -59,6 +61,8 @@ a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     text-align: center;
+    border-style: solid;
+    border-width: 6px;
     color:darkgoldenrod
 }
 
@@ -69,6 +73,8 @@ a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     text-align: center;
+    border-style: solid;
+    border-width: 6px;
     color:darkgoldenrod
 }
 
