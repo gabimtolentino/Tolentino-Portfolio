@@ -16,9 +16,9 @@ header h1 {
     color:darkgoldenrod 
 }
 
-header nav {
+header nav li {
     font-size: 20px;
-    justify-content: center;
+    display: inline-block;
 }
 
 a {
@@ -30,6 +30,7 @@ a {
     height: 10;
     justify-content: center;
     align-items: center;
+    display: flex;
     padding: 10px;
     background-color:darkolivegreen;
     border-radius: 20px;
