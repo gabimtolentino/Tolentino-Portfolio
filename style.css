@@ -35,13 +35,40 @@ a {
 }
 
 .about-me {
+    padding: 20px;
+    background-color:darkkhaki;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
     color:darkgoldenrod
 }
 
 .my-work {
+    padding: 20px;
+    background-color: darkkhaki;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
     color:darkgoldenrod
 }
 
 .contact-me {
+    padding: 20px;
+    background-color: darkkhaki;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
     color:darkgoldenrod
+}
+
+.aboutp {
+    color:ivory
+}
+
+.workp {
+    color:ivory
+}
+
+.contactp {
+    color:ivory
 }
