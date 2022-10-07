@@ -40,7 +40,7 @@ a {
 .about-me {
     padding: 20px;
     background-color:darkkhaki;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     color:darkgoldenrod
@@ -49,7 +49,7 @@ a {
 .my-work {
     padding: 20px;
     background-color: darkkhaki;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     color:darkgoldenrod
@@ -58,7 +58,7 @@ a {
 .contact-me {
     padding: 20px;
     background-color: darkkhaki;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
     color:darkgoldenrod
