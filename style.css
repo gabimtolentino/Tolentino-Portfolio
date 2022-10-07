@@ -13,6 +13,8 @@ header {
 header h1 {
     display: flex;
     text-align: center;
+    padding: 60px;
+    background-color: darkkhaki;
     color:darkgoldenrod 
 }
 
@@ -21,7 +23,7 @@ header nav li {
     display: inline-block;
     justify-content: space-between;
     padding: 20px;
-    background-color: darkkhaki;
+    background-color:cornsilk;
     text-align: center;
     border-style: solid;
     border-width: 6px;
